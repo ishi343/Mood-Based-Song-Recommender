@@ -1,0 +1,19 @@
+body{
+    background: pink;
+    text-align:center;
+    padding-top:100px;
+    font-family:Arial;
+}
+
+.container{
+    background:white;
+    width:400px;
+    margin:auto;
+    padding:30px;
+    border-radius:20px;
+}
+button{
+    padding:10px;
+    background:red;
+    color:white;
+}
